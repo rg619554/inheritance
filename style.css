@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300);
+#para1 {
+  font-weight: 100;
+  font-family:"Raleway",
+  sans-serif;;
+}
+
+#para2 {
+  font-weight: 300;
+  font-family:"Raleway",
+  sans-serif;;
+}
+
+#para3 {
+  font-weight: 700;
+  font-family:"Raleway",
+  sans-serif;
+}
+
+#para4 {
+  font-weight: 900;
+  font-family:"Raleway",
+  sans-serif;
+}
+body{font-family: "Raleway",
+sans-serif;
+font-size: 32px;
+}
+h2 {
+  font-family: "Oswald", sans-serif;;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;;
+}
